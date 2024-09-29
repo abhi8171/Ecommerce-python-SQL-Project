@@ -19,5 +19,7 @@ The analysis provided insights into sales performance, customer behavior, produc
 
 # Tools & Technologies
 Python: Pandas, Matplotlib, Seaborn
+
 SQL: MySQL with mysql.connector
+
 Jupyter Notebook: For code execution and analysis
